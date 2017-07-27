@@ -88,9 +88,6 @@ echo '{
     "@angular/common": "^4.3.0",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
-  },
-  "publishConfig": {
-    "registry": "https://artifactory.mapp.tools/artifactory/api/npm/mapp-npm-local"
   }
 }' > src/package.json
 
