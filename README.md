@@ -1,4 +1,4 @@
-# Angular Library Skeleton
+# angular-library-generator
 This is a shell script that will generate a skeleton to build a standalone Angular library.
 
 ## Key Library Concepts
@@ -10,9 +10,13 @@ This is a shell script that will generate a skeleton to build a standalone Angul
 This is a seed project to use when creating a standalone Angular library component.
 
 
-* > git clone
-* > copy setup.sh to a different directory
-* > ./setup.sh
+* > git clone git@github.com:adrianpomilio/angular-library-generator.git
+* > copy ng-lib-setup.sh to a different directory
+* > chmod +x ng-lib-setup.sh
+* > ./ng-lib-setup.sh
+* > enter your lib name
+* > enter your lib description
+* > rm ng-lib-setup.sh
 
 
 
